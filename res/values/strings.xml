@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Issen</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="app_id">1374998619403057</string>
+    
+    <string name="settings">Settings</string>
+    
+    <string name="get_started">started</string>
+    
+    
+     <string name="color_selected">#51c2e5</string>
+   
+    
+    
+</resources>
